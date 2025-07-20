@@ -152,7 +152,7 @@ server <- function(input, output) {
           mode = 'none',
           fill = 'tozeroy',
           fillcolor = 'rgba(255,0,0,0.7)',
-          showlegend = TRUE
+          showlegend = FALSE
         )
       }
 
@@ -168,7 +168,7 @@ server <- function(input, output) {
           mode = 'none',
           fill = 'tozeroy',
           fillcolor = 'rgba(255,0,0,0.5)',
-          showlegend = TRUE
+          showlegend = FALSE
         )
       }
 
@@ -183,7 +183,7 @@ server <- function(input, output) {
           mode = 'none',
           fill = 'tozeroy',
           fillcolor = 'rgba(255,0,0,0.5)',
-          showlegend = TRUE
+          showlegend = FALSE
         )
       }
 
@@ -198,7 +198,7 @@ server <- function(input, output) {
           mode = 'none',
           fill = 'tozeroy',
           fillcolor = 'rgba(255,0,0,0.5)',
-          showlegend = TRUE
+          showlegend = FALSE
         )
       }
     }
